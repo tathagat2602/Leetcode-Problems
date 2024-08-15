@@ -6,10 +6,10 @@ public:
         int i = 0;  // Initialize the first pointer
         
         for (int j = 1; j < nums.size(); j++) {
-            // Check if the current element is different from the last unique element
+            // If a new unique element is found
             if (nums[j] != nums[i]) {
-                i++;  // Increment the first pointer
-                nums[i] = nums[j];  // Place the new unique element in the correct position
+                i++;  // Move the first pointer
+                nums[i] = nums[j];  // Place the new unique element at nums[i]
             }
         }
         
