@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tathagat2602/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tathagat2602/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/tathagat2602/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/tathagat2602/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/tathagat2602/Leetcode/tree/master/0038-count-and-say) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tathagat2602/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tathagat2602/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tathagat2602/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/tathagat2602/Leetcode/tree/master/0075-sort-colors) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tathagat2602/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/tathagat2602/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tathagat2602/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tathagat2602/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
