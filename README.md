@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tathagat2602/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tathagat2602/Leetcode/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/tathagat2602/Leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tathagat2602/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/tathagat2602/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/tathagat2602/Leetcode/tree/master/0040-combination-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tathagat2602/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
