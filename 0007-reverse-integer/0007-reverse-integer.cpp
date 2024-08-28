@@ -15,19 +15,3 @@ public:
         return revN;
     }
 };
-
-
-
-// class Solution {
-// public:
-//     int reverse(int x) {
-//         int revN=0;
-        
-//         while(x > 0){
-//         int ld= x % 10;
-//         x = x /10;
-//         revN= (revN*10) + ld;
-//         }
-//         cout<<revN<<endl;
-//     };
-// };
