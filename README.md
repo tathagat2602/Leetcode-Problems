@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tathagat2602/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tathagat2602/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/tathagat2602/Leetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/tathagat2602/Leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
