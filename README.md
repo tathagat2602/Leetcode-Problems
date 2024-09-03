@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/tathagat2602/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagat2602/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/tathagat2602/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tathagat2602/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tathagat2602/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/tathagat2602/Leetcode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/tathagat2602/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tathagat2602/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/tathagat2602/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tathagat2602/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/tathagat2602/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
