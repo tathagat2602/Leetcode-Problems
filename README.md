@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tathagat2602/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/tathagat2602/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tathagat2602/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/tathagat2602/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tathagat2602/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/tathagat2602/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tathagat2602/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/tathagat2602/Leetcode/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagat2602/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/tathagat2602/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tathagat2602/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tathagat2602/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tathagat2602/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/tathagat2602/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tathagat2602/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
