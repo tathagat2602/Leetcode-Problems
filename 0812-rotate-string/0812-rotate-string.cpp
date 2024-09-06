@@ -15,7 +15,8 @@ public:
         
         // Try all possible rotations using the three-reversal method
         for (int k = 1; k < n; ++k) {
-            string temp = s;
+            string temp=s;
+            
 
             // Reverse the entire string
             reverse(temp.begin(), temp.end());
