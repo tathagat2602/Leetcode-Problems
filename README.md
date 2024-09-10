@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tathagat2602/Leetcode/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/tathagat2602/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/tathagat2602/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/tathagat2602/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tathagat2602/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tathagat2602/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/tathagat2602/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tathagat2602/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tathagat2602/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tathagat2602/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/tathagat2602/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/tathagat2602/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/tathagat2602/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tathagat2602/Leetcode/tree/master/0268-missing-number) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tathagat2602/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/tathagat2602/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/tathagat2602/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/tathagat2602/Leetcode/tree/master/0289-game-of-life) |
 ## Simulation
