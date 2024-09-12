@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tathagat2602/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tathagat2602/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tathagat2602/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tathagat2602/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tathagat2602/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/tathagat2602/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tathagat2602/Leetcode/tree/master/0075-sort-colors) |
@@ -117,11 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tathagat2602/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tathagat2602/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/tathagat2602/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tathagat2602/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/tathagat2602/Leetcode/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tathagat2602/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/tathagat2602/Leetcode/tree/master/0289-game-of-life) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tathagat2602/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
