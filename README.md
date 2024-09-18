@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tathagat2602/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tathagat2602/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tathagat2602/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/tathagat2602/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/tathagat2602/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tathagat2602/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tathagat2602/Leetcode/tree/master/0268-missing-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/tathagat2602/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tathagat2602/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tathagat2602/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/tathagat2602/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/tathagat2602/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/tathagat2602/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tathagat2602/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
