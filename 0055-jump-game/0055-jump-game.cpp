@@ -1,21 +1,20 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        int n = nums.size();
-        int farthest = 0;
-        
-        // Iterate through the array
-        for (int i = 0; i < n; i++) {
-            // If the current index is greater than the furthest reachable position, return false
-            if (i > farthest) return false;
-            
-            // Update the furthest position we can reach
-            farthest = max(farthest, i + nums[i]);
-            
-            // If the furthest position we can reach is beyond or at the last index, return true
-            if (farthest >= n - 1) return true;
+         int n = nums.size();
+    if (n == 0 ) return false;  
+    if ( n == 1 && nums[0] == 0 ) return true;  
+    int jumps = 0;
+    int current_end = 0;
+    int farthest = 0;
+    for (int i = 0; i < n - 1; ++i) {
+        farthest = max(farthest, i + nums[i]);
+        if (i == current_end) {
+            jumps++;
+            current_end = farthest;
+            if (current_end >= n - 1) break;  
         }
-        
-        return false;
+    }  
+    return (current_end >= n - 1) ? true  : false;
     }
 };
