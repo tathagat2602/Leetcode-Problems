@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tathagat2602/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tathagat2602/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tathagat2602/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0859-design-circular-deque](https://github.com/tathagat2602/Leetcode/tree/master/0859-design-circular-deque) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagat2602/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tathagat2602/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tathagat2602/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tathagat2602/Leetcode/tree/master/0002-add-two-numbers) |
+| [0859-design-circular-deque](https://github.com/tathagat2602/Leetcode/tree/master/0859-design-circular-deque) |
 ## Trie
 |  |
 | ------- |
@@ -258,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagat2602/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/tathagat2602/Leetcode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/tathagat2602/Leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
