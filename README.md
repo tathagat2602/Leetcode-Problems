@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tathagat2602/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/tathagat2602/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tathagat2602/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/tathagat2602/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tathagat2602/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2755-extra-characters-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## String
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/tathagat2602/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tathagat2602/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tathagat2602/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1694-make-sum-divisible-by-p](https://github.com/tathagat2602/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tathagat2602/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tathagat2602/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2755-extra-characters-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/tathagat2602/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/tathagat2602/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Depth-First Search
 |  |
 | ------- |
