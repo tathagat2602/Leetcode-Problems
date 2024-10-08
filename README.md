@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/tathagat2602/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tathagat2602/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/tathagat2602/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tathagat2602/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tathagat2602/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tathagat2602/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tathagat2602/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/tathagat2602/Leetcode/tree/master/0321-create-maximum-number) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tathagat2602/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tathagat2602/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tathagat2602/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/tathagat2602/Leetcode/tree/master/0397-integer-replacement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tathagat2602/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2032-largest-odd-number-in-string](https://github.com/tathagat2602/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tathagat2602/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/tathagat2602/Leetcode/tree/master/0321-create-maximum-number) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagat2602/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tathagat2602/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tathagat2602/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tathagat2602/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
