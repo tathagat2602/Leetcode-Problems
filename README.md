@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/tathagat2602/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/tathagat2602/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/tathagat2602/Leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tathagat2602/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tathagat2602/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/tathagat2602/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/tathagat2602/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/tathagat2602/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagat2602/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/tathagat2602/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tathagat2602/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tathagat2602/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tathagat2602/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tathagat2602/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tathagat2602/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tathagat2602/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/tathagat2602/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tathagat2602/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Monotonic Stack
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/tathagat2602/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/tathagat2602/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tathagat2602/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/tathagat2602/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Graph
 |  |
