@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tathagat2602/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tathagat2602/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tathagat2602/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/tathagat2602/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/tathagat2602/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tathagat2602/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tathagat2602/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tathagat2602/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/tathagat2602/Leetcode/tree/master/0289-game-of-life) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagat2602/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/tathagat2602/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/tathagat2602/Leetcode/tree/master/0289-game-of-life) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tathagat2602/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tathagat2602/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/tathagat2602/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tathagat2602/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
