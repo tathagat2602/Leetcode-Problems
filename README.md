@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tathagat2602/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tathagat2602/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tathagat2602/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-sliding-puzzle](https://github.com/tathagat2602/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/tathagat2602/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tathagat2602/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/tathagat2602/Leetcode/tree/master/1002-maximum-width-ramp) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tathagat2602/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tathagat2602/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/tathagat2602/Leetcode/tree/master/0289-game-of-life) |
+| [0787-sliding-puzzle](https://github.com/tathagat2602/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tathagat2602/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagat2602/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1972-rotating-the-box](https://github.com/tathagat2602/Leetcode/tree/master/1972-rotating-the-box) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/tathagat2602/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagat2602/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/tathagat2602/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/tathagat2602/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
