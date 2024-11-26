@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/tathagat2602/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+| [3189-find-champion-ii](https://github.com/tathagat2602/Leetcode/tree/master/3189-find-champion-ii) |
 ## Biconnected Component
 |  |
 | ------- |
