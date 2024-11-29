@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tathagat2602/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tathagat2602/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/tathagat2602/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tathagat2602/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/tathagat2602/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/tathagat2602/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tathagat2602/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/tathagat2602/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tathagat2602/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/tathagat2602/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/tathagat2602/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tathagat2602/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/tathagat2602/Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/tathagat2602/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Biconnected Component
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/tathagat2602/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/tathagat2602/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/tathagat2602/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tathagat2602/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/tathagat2602/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Design
 |  |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/tathagat2602/Leetcode/tree/master/1304-longest-happy-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/tathagat2602/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/tathagat2602/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tathagat2602/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -402,4 +407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/tathagat2602/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tathagat2602/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
