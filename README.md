@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tathagat2602/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tathagat2602/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3427-special-array-ii](https://github.com/tathagat2602/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/tathagat2602/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tathagat2602/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tathagat2602/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tathagat2602/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/tathagat2602/Leetcode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tathagat2602/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tathagat2602/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/tathagat2602/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [3427-special-array-ii](https://github.com/tathagat2602/Leetcode/tree/master/3427-special-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
