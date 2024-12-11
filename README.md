@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/tathagat2602/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tathagat2602/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/tathagat2602/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tathagat2602/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tathagat2602/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Array
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tathagat2602/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/tathagat2602/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/tathagat2602/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tathagat2602/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/tathagat2602/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/tathagat2602/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tathagat2602/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tathagat2602/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tathagat2602/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tathagat2602/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Counting
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tathagat2602/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tathagat2602/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tathagat2602/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tathagat2602/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tathagat2602/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/tathagat2602/Leetcode/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
