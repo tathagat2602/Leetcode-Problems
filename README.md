@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tathagat2602/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tathagat2602/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tathagat2602/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tathagat2602/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tathagat2602/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tathagat2602/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/tathagat2602/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/tathagat2602/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagat2602/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tathagat2602/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tathagat2602/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tathagat2602/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tathagat2602/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tathagat2602/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/tathagat2602/Leetcode/tree/master/0321-create-maximum-number) |
 | [1002-maximum-width-ramp](https://github.com/tathagat2602/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tathagat2602/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
 | ------- |
