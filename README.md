@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tathagat2602/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tathagat2602/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tathagat2602/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tathagat2602/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/tathagat2602/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/tathagat2602/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tathagat2602/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tathagat2602/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/tathagat2602/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tathagat2602/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tathagat2602/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/tathagat2602/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tathagat2602/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tathagat2602/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tathagat2602/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/tathagat2602/Leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tathagat2602/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tathagat2602/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/tathagat2602/Leetcode/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/tathagat2602/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/tathagat2602/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tathagat2602/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tathagat2602/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/tathagat2602/Leetcode/tree/master/0321-create-maximum-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tathagat2602/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/tathagat2602/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/tathagat2602/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tathagat2602/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tathagat2602/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/tathagat2602/Leetcode/tree/master/0321-create-maximum-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/tathagat2602/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/tathagat2602/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tathagat2602/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
