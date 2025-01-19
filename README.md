@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/tathagat2602/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/tathagat2602/Leetcode/tree/master/0321-create-maximum-number) |
 | [0368-largest-divisible-subset](https://github.com/tathagat2602/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/tathagat2602/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tathagat2602/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tathagat2602/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/tathagat2602/Leetcode/tree/master/0494-target-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tathagat2602/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tathagat2602/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/tathagat2602/Leetcode/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/tathagat2602/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/tathagat2602/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tathagat2602/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagat2602/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/tathagat2602/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tathagat2602/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/tathagat2602/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tathagat2602/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/tathagat2602/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tathagat2602/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tathagat2602/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/tathagat2602/Leetcode/tree/master/1304-longest-happy-string) |
