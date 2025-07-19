@@ -7,6 +7,7 @@ public:
             if (nums[i] < nums[i + 1]) {
                 pivot = i;
                 break;
+                
             }
         }
 
