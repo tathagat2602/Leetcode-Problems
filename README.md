@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tathagat2602/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tathagat2602/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/tathagat2602/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/tathagat2602/Leetcode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/tathagat2602/Leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/tathagat2602/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tathagat2602/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tathagat2602/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/tathagat2602/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tathagat2602/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/tathagat2602/Leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tathagat2602/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tathagat2602/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tathagat2602/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
