@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/tathagat2602/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tathagat2602/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tathagat2602/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/tathagat2602/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tathagat2602/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/tathagat2602/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tathagat2602/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tathagat2602/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/tathagat2602/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tathagat2602/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1646-kth-missing-positive-number](https://github.com/tathagat2602/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tathagat2602/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tathagat2602/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tathagat2602/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
