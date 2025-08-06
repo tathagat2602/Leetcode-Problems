@@ -12,7 +12,7 @@ public:
             }
             reverse(word.begin(), word.end());
             if (word.length() > 0) {
-                ans = ans +" " +  word;
+                ans = ans + " " + word;
             }
         }
         return ans.substr(1);
